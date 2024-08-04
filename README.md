@@ -9,7 +9,7 @@ Project Overview:  Board Layers:   The board can be designed with either 2 layer
 Features:  IoT Benefits: Designed specifically for IoT projects, this board allows for more data logging compared to standard boards like the Arduino Uno. It provides extensive functionalities ideal for IoT applications, except for ADC (Analog to Digital Conversion). Real-Time Clock (RTC): The onboard RTC module enables precise time-stamped data collection, which is crucial for continuous monitoring and data analysis.
   
   
-Note: The board does not support any analog pins and the internal ADC of the ATMEGA328p is disabled.
+Note: The board does not support any analog pins as the internal ADC of the ATMEGA328p is disabled.
 
 
 **Repository Structure** Branches:  main: General overview. 2Layer: Files and details specific to the 2-layer design. 4Layer: Files and details specific to the 4-layer design.
