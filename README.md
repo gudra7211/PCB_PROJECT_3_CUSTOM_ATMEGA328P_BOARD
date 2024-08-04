@@ -12,7 +12,7 @@ Features:  IoT Benefits: Designed specifically for IoT projects, this board allo
 Note: The board does not support any analog pins and the internal ADC of the ATMEGA328p is disabled.
 
 
-**Repository Structure** Branches:main: General overview. 2Layer:Files and details specific to the 2-layer design. 4Layer: Files and details specific to the 4-layer design.
+**Repository Structure** Branches:  main: General overview. 2Layer: Files and details specific to the 2-layer design. 4Layer: Files and details specific to the 4-layer design.
 Feel free to explore the files in each branch to see the different design styles.
 
 Note: You are currently viewing the main branch of this repository.
